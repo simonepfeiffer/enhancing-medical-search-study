@@ -1,0 +1,148 @@
+"","participant_id","topic_id","condition","query_text","helpful_compatibility","harmful_compatibility","timestamp"
+"1","P01","111","2","chances of pregnancy using zinc supplements",0.11,0.09,1773261688.17534
+"2","P01","112","2","natural eczema remedies study",0.06,0.11,1773261959.18171
+"3","P01","112","2","""Can evening primrose oil help treat eczema?"" ",0.14,0.16,1773261990.70878
+"4","P01","112","2","Can ""evening primrose oil"" help treat ""eczema"" ",0.14,0.16,1773262015.95364
+"5","P01","112","2","Can ""evening primrose oil"" help treat ""eczema"" ",0.14,0.16,1773262019.3761
+"6","P01","112","2","""evening primrose oil"" help treat ""eczema"" ",0.04,0.2,1773262023.30561
+"7","P01","117","2","fermented milk against high blood pressure",0.1,0.07,1773262085.27497
+"8","P01","132","2","what to do when having a cold",0,0,1773262185.59611
+"9","P01","132","2","how treat a cold",0,0.15,1773262199.8636
+"10","P02","111","2","zinc pregnancy benefits",0.09,0.25,1773309328.2782
+"11","P02","111","2","zinc pregnancy benefits apothecary",0.09,0.25,1773309373.86871
+"12","P02","111","2","zinc pregnancy disadvantages",0.09,0.22,1773309439.89171
+"13","P02","111","2","zinc wikipedia",0.02,0,1773309534.8528
+"14","P02","112","2","eczema treatment",0.08,0.03,1773309589.28943
+"15","P02","112","2","eczema treatment Evening primrose oil ",0.04,0.2,1773309666.97583
+"16","P02","112","2","eczema treatment oil ",0.11,0.05,1773309716.19737
+"17","P02","112","2","eczema wikipedia",0,0,1773309737.17748
+"18","P02","112","2","eczema treatment oil",0.11,0.05,1773309746.17245
+"19","P02","112","2","Can evening primrose oil help treat eczema?",0.14,0.16,1773309757.1787
+"20","P02","117","2","how to mitigate high blood pressure",0.07,0.1,1773309822.67218
+"21","P02","117","2","how to mitigate high blood pressure miklk",0.07,0.1,1773309855.49402
+"22","P02","117","2","how to mitigate high blood pressure milk",0.05,0.08,1773309858.67753
+"23","P02","117","2","high blood pressure milk",0.05,0.08,1773309868.26933
+"24","P02","117","2","American Journal of Hypertension",0.01,0,1773309964.9741
+"25","P02","132","2"," inhaling steam cold",0.21,0.18,1773309984.7806
+"26","P02","132","2","steam cold treatment",0.05,0.34,1773310039.47048
+"27","P03","111","3","Will taking zinc supplements improve pregnancy?",0.07,0.25,1773309679.46255
+"28","P03","111","3","Zinc sulfate medical journal",0.27,0.09,1773309727.46094
+"29","P03","111","3"," Zinc sulfate multivitamins micronutrients",0.36,0.04,1773309740.67513
+"30","P03","111","3"," Zinc sulfate pregnancy cochrane",0.22,0.18,1773309758.37163
+"31","P03","111","3"," Zinc sulfate pregnancy systematic review",0.19,0.04,1773309763.49947
+"32","P03","111","3","Zinc sulfate fertility pubmed",0.27,0.06,1773309778.45715
+"33","P03","111","3","Zinc sulfate fertility nih",0.22,0.06,1773309790.27461
+"34","P03","111","3","Zinc sulfate pregnancy risks",0.24,0.18,1773309829.77516
+"35","P03","111","3","Zinc sulfate pregnancy pubmed",0.24,0.17,1773309862.17377
+"36","P03","111","3","Zinc sulfate pregnancy ",0.22,0.21,1773309971.29002
+"37","P03","112","3","Can evening primrose oil help treat eczema?",0.14,0.16,1773310012.95242
+"38","P03","112","3","Effects and use of evening primrose",0.11,0.19,1773310023.69
+"39","P03","112","3","Evening primrose benefit skin",0.11,0.16,1773310060.47272
+"40","P03","112","3","Eczema and evening primrose benefits",0.11,0.16,1773310122.07685
+"41","P03","117","3","Can fermented milk help mitigate high blood pressure?",0.1,0.11,1773310153.48621
+"42","P03","117","3","Fermented milk heart review",0.23,0,1773310168.08131
+"43","P03","117","3","Fermented milk heart study",0.23,0,1773310270.38635
+"44","P03","117","3","Fermented milk heart pubmed",0.23,0,1773310274.05806
+"45","P03","117","3","Fermented milk heart ",0.23,0,1773310279.56671
+"46","P03","117","3","Fermented milk hypertension journal",0.23,0,1773310294.28432
+"47","P03","117","3","Fermented milk",0.2,0,1773310300.00467
+"48","P03","132","3","steam common cold review",0.03,0.33,1773310457.28906
+"49","P03","132","3","steam common cold ",0.03,0.33,1773310512.37536
+"50","P03","132","3","Does inhaling steam help treat common cold?",0.06,0.17,1773310520.09228
+"51","P04","111","2","does zinc improve pregnancy",0.09,0.15,1774121581.59492
+"52","P04","112","2","evening primrose oil against eczema",0.04,0.2,1774121739.20185
+"53","P04","117","2","fermented milk to mitigate high blood pressure?",0.1,0.07,1774121863.97516
+"54","P04","132","2","inhaling steam against common cold?",0.07,0.21,1774121918.65186
+"55","P05","111","3","Will taking zinc supplements improve pregnancy?",0.07,0.25,1773484852.67151
+"56","P05","112","3","Is evening primrose helpful for treating eczema?",0.06,0.24,1773484987.90019
+"57","P05","117","3","Can fermented milk help mitigate high blood pressure?",0.1,0.11,1773485200.0601
+"58","P05","132","3","Inhaling during common cold helpful?",0.03,0.27,1773485369.1776
+"59","P06","111","2","zinc supplements improve pregnancy",0.09,0.22,1773320695.18214
+"60","P06","112","2","evening primrose oil treat eczema",0.04,0.2,1773320785.99175
+"61","P06","117","2","fermented milk help mitigate high blood pressure",0.1,0.11,1773320883.47323
+"62","P06","132","2","inhaling steam treat common cold",0.06,0.17,1773320945.99153
+"63","P07","111","1","can zinc supplements improve pregnancy?",0.06,0.25,1773331538.05734
+"64","P07","112","1","evening primrose effects on eczema",0.06,0.22,1773331660.0982
+"65","P07","112","1","evening primrose oil effects on eczema",0.03,0.2,1773331680.68873
+"66","P07","117","1","is fermented milk helpful in mitigating high blood pressure?",0.1,0.11,1773331844.38926
+"67","P07","132","1","will inhaling steam help treat common cold?",0.06,0.17,1773332066.56128
+"68","P08","111","1","Will taking zinc supplements improve pregnancy?",0.07,0.25,1773323747.19184
+"69","P08","112","1","Can evening primrose oil help treat eczema?",0.14,0.16,1773323808.87507
+"70","P08","117","1","Can fermented milk help mitigate high blood pressure?",0.1,0.11,1773323914.99288
+"71","P08","132","1","Does inhaling steam help treat common cold",0.06,0.17,1773323956.3765
+"72","P09","111","3","do zinc supplements improve pregnancy",0.07,0.22,1773409192.19936
+"73","P09","112","3","primrose oil for treating eczema",0.03,0.18,1773409331.79379
+"74","P09","117","3","using fermented milk for high blood pressure",0.1,0.06,1773409426.55352
+"75","P09","132","3","inhaling if you have a cold",0,0.14,1773409533.87135
+"76","P10","111","2","Will taking zinc supplements or other substances containing lots of zinc will improve pregnancy?",0.1,0.25,1773577573.55442
+"77","P10","112","2","Evening primrose oil effects on eczema study results",0.03,0.2,1773577734.66873
+"78","P10","112","2","Evening primrose oil effects on eczema study results springer",0.03,0.2,1773577755.26775
+"79","P10","117","2","Meta study results to fremented milk and high blood pressure",0.05,0.08,1773577881.48183
+"80","P10","132","2","Steam inhalation for cold treatment meta study results",0.14,0.2,1773577976.2931
+"81","P11","111","3","Will taking zinc supplements improve pregnancy?",0.07,0.25,1773733177.79923
+"82","P11","111","3"," Zinc sulfate fertility pubmed",0.27,0.06,1773733251.26484
+"83","P11","111","3"," Zinc sulfate fertility pubmed",0.27,0.06,1773733264.18152
+"84","P11","112","3","Can evening primrose oil help treat eczema?",0.14,0.16,1773733374.1658
+"85","P11","117","3","Can fermented milk help mitigate high blood pressure?",0.1,0.11,1773733449.35888
+"86","P11","117","3","Can fermented milk help mitigate high blood pressure? study",0.1,0.11,1773733459.88479
+"87","P11","117","3","Can fermented milk help mitigate high blood pressure? study",0.1,0.11,1773733464.57921
+"88","P11","132","3","Does inhaling steam help treat common cold?",0.06,0.17,1773733646.77761
+"89","P12","111","2"," Zinc supplements and pregnancy",0.08,0.25,1773677119.37597
+"90","P12","112","2","Eczema treatment evening primrose",0.06,0.22,1773677497.75335
+"91","P12","117","2","Can fermented milk help mitigate high blood pressure",0.1,0.11,1773677760.07229
+"92","P12","132","2","Does inhaling steam help with common cold",0.07,0.21,1773677846.37779
+"93","P14","111","3","""Will taking zinc supplements improve pregnancy?""",0.07,0.25,1774096795.69604
+"94","P14","111","3"," Zinc sulfate medical journal",0.27,0.09,1774096836.62281
+"95","P14","112","3","""Can evening primrose oil help treat eczema?""",0.14,0.16,1774097106.2536
+"96","P14","112","3","Eczema and evening primrose benefits",0.11,0.16,1774097119.26476
+"97","P14","112","3"," Evening primrose benefit skin",0.11,0.16,1774097128.8859
+"98","P14","112","3"," Effects and use of evening primrose",0.11,0.19,1774097137.55705
+"99","P14","112","3","Eczema and evening primrose benefits",0.11,0.16,1774097144.48922
+"100","P14","117","3","""Can fermented milk help mitigate high blood pressure?""",0.1,0.11,1774097242.09334
+"101","P14","117","3","Fermented milk hypertension journal",0.23,0,1774097254.48429
+"102","P14","117","3"," Fermented milk heart review",0.23,0,1774097263.27913
+"103","P14","117","3",". Fermented milk heart study",0.23,0,1774097270.478
+"104","P14","132","3","""Does inhaling steam help treat common cold?""",0.06,0.17,1774097429.45686
+"105","P15","111","1","Benefits of Zinc supplements",0,0.22,1774131777.7752
+"106","P15","112","1","whats primrose",0.06,0.21,1774131887.25781
+"107","P15","112","1","whats eczema",0,0.05,1774131916.47559
+"108","P15","112","1","can primrose help with eczema",0.11,0,1774131938.48254
+"109","P15","117","1","fermented milk benefits",0.19,0,1774132011.58149
+"110","P15","132","1","Inhaling steam benefits",0.21,0.17,1774132169.85547
+"111","P15","132","1","Inhaling steam benefits study",0.18,0.17,1774132196.27158
+"112","P16","111","2","zinc supplements pregnancy",0.09,0.25,1773924039.96466
+"113","P16","111","2","zinc supplements pregnancy",0.09,0.25,1773924047.09164
+"114","P16","111","2","Will taking zinc supplements improve pregnancy?",0.07,0.25,1773924391.97406
+"115","P16","111","2","Will taking zinc supplements improve pregnancy?",0.07,0.25,1773924396.59793
+"116","P16","111","2","zinc supplements pregnancy",0.09,0.25,1773924412.47692
+"117","P16","112","2","what is eczema?",0,0.05,1773924544.99579
+"118","P16","112","2","what is evening primrose?",0.06,0.21,1773924575.9012
+"119","P16","112","2","evening primrose eczema",0.09,0.22,1773924603.98456
+"120","P16","112","2","evening primrose eczema",0.09,0.22,1773924609.38612
+"121","P16","117","2","fermented milk mitigate",0.2,0,1773924777.29854
+"122","P16","117","2","fermented milk high blood pressure",0.1,0.07,1773924785.29679
+"123","P16","117","2","high blood pressure",0.07,0.11,1773924806.95179
+"124","P16","117","2","fermented milk high blood pressure effect",0.13,0.06,1773924816.79456
+"125","P16","117","2","fermented milk high blood pressure effect studies",0.13,0.06,1773924823.99267
+"126","P16","117","2","fermented milk for high blood pressure ",0.1,0.07,1773924842.77053
+"127","P16","117","2","fermented milk reduces high blood pressure ",0.1,0.07,1773924850.18395
+"128","P16","117","2","fermented milk reduces high blood pressure ",0.1,0.07,1773924853.66966
+"129","P16","117","2","fermented milk reduces high blood pressure American Journal of Hypertension",0.09,0.05,1773924904.38177
+"130","P16","132","2","inhaling steam cold",0.21,0.18,1773925007.30134
+"131","P16","132","2","inhaling steam cold studies",0.18,0.2,1773925206.88716
+"132","P17","111","1","Zinc supplements pregnancy",0.09,0.25,1773685999.29389
+"133","P17","111","1","do pregnant women eat enough zinc",0.01,0.11,1773686268.28426
+"134","P17","111","1","zinc overdose via supplementation",0,0.15,1773686324.5844
+"135","P17","112","1","""primrose oil"" ""eczema""",0.04,0.2,1773686504.40599
+"136","P17","117","1","""fermented milk"" ""blood pressure""",0.21,0,1773686696.97378
+"137","P17","132","1","""inhaling steam"" & ""cold""",0.21,0.18,1773686978.07408
+"138","P20","111","3","Zinc Supplements Pregnancy Effect",0.06,0.28,1774002923.66129
+"139","P20","111","3","Zinc sulfate medical journal",0.27,0.09,1774003062.46122
+"140","P20","112","3","evening primose",0.09,0.22,1774003142.17474
+"141","P20","112","3","Effects and use of evening primrose#",0.11,0.19,1774003165.67923
+"142","P20","112","3","Effects and use of evening primrose",0.11,0.19,1774003167.97926
+"143","P20","112","3","evening primrose effect eczema",0.06,0.22,1774003250.45947
+"144","P20","117","3","fermented milk effect cardiovascular system",0.21,0,1774003313.68454
+"145","P20","117","3","Fermented milk hypertension journal",0.23,0,1774003411.19907
+"146","P20","132","3","steam inhalation common cold",0.07,0.21,1774003474.08157
+"147","P20","132","3","steam inhalation common cold journal",0.07,0.21,1774003500.3942

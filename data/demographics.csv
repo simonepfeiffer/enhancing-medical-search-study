@@ -1,0 +1,18 @@
+﻿participant_ID;submission_timestamp;educational_level;age;gender;english_proficiency;condition
+P01;3.11.2026 21:40:28;Bachelor's degree;26;Female;3;2
+P02;3.12.2026 10:54:54;Bachelor's degree;27;Female;3;2
+P03;3.12.2026 11:00:48;University entrance qualification (e.g., Abitur);27;Male;4;3
+P04;3.21.2026 20:31:56;University entrance qualification (e.g., Abitur);21;Female;4;2
+P05;3.14.2026 11:39:35;University entrance qualification (e.g., Abitur);25;Male;4;3
+P06;3.12.2026 14:04:07;University entrance qualification (e.g., Abitur);20;Female;3;2
+P07;3.12.2026 17:04:53;University entrance qualification (e.g., Abitur);26;Female;4;1
+P08;3.12.2026 14:55:12;University entrance qualification (e.g., Abitur);22;Female;3;1
+P09;3.13.2026 14:38:57;University entrance qualification (e.g., Abitur);26;Male, Non-binary / another gender;4;3
+P10;3.15.2026 13:24:58;Master's degree;30;Male;4;2
+P11;3.17.2026 8:39:08;University entrance qualification (e.g., Abitur);21;Male;3;3
+P12;3.16.2026 17:04:01;University entrance qualification (e.g., Abitur);25;Male;4;2
+P14;3.21.2026 13:22:28;Bachelor's degree;21;Male;4;3
+P15;3.21.2026 23:21:52;University entrance qualification (e.g., Abitur);21;Male;4;1
+P16;3.19.2026 13:39:28;University entrance qualification (e.g., Abitur);21;Male;3;2
+P17;3.16.2026 19:32:22;University entrance qualification (e.g., Abitur);35;Male;4;1
+P20;3.20.2026 11:34:40;Bachelor's degree;23;Male;4;3
