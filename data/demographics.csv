@@ -1,18 +1,18 @@
-participant_id,submission_timestamp,education_level,age,gender,english_proficiency,condition
-P01,2026-03-11 21:40:28,Bachelor's degree,26,Female,3,2
-P02,2026-03-12 10:54:54,Bachelor's degree,27,Female,3,2
-P03,2026-03-12 11:00:48,University entrance qualification (e.g., Abitur),27,Male,4,3
-P04,2026-03-21 20:31:56,University entrance qualification (e.g., Abitur),21,Female,4,2
-P05,2026-03-14 11:39:35,University entrance qualification (e.g., Abitur),25,Male,4,3
-P06,2026-03-12 14:04:07,University entrance qualification (e.g., Abitur),20,Female,3,2
-P07,2026-03-12 17:04:53,University entrance qualification (e.g., Abitur),26,Female,4,1
-P08,2026-03-12 14:55:12,University entrance qualification (e.g., Abitur),22,Female,3,1
-P09,2026-03-13 14:38:57,University entrance qualification (e.g., Abitur),26,"Male, Non-binary / another gender",4,3
-P10,2026-03-15 13:24:58,Master's degree,30,Male,4,2
-P11,2026-03-17 08:39:08,University entrance qualification (e.g., Abitur),21,Male,3,3
-P12,2026-03-16 17:04:01,University entrance qualification (e.g., Abitur),25,Male,4,2
-P14,2026-03-21 13:22:28,Bachelor's degree,21,Male,4,3
-P15,2026-03-21 23:21:52,University entrance qualification (e.g., Abitur),21,Male,4,1
-P16,2026-03-19 13:39:28,University entrance qualification (e.g., Abitur),21,Male,3,2
-P17,2026-03-16 19:32:22,University entrance qualification (e.g., Abitur),35,Male,4,1
-P20,2026-03-20 11:34:40,Bachelor's degree,23,Male,4,3
+"participant_id","submission_timestamp","education_level","age","gender","english_proficiency","condition"
+"P01","2026-03-11 21:40:28","Bachelor's degree","26","Female","3","2"
+"P02","2026-03-12 10:54:54","Bachelor's degree","27","Female","3","2"
+"P03","2026-03-12 11:00:48","University entrance qualification (e.g., Abitur)","27","Male","4","3"
+"P04","2026-03-21 20:31:56","University entrance qualification (e.g., Abitur)","21","Female","4","2"
+"P05","2026-03-14 11:39:35","University entrance qualification (e.g., Abitur)","25","Male","4","3"
+"P06","2026-03-12 14:04:07","University entrance qualification (e.g., Abitur)","20","Female","3","2"
+"P07","2026-03-12 17:04:53","University entrance qualification (e.g., Abitur)","26","Female","4","1"
+"P08","2026-03-12 14:55:12","University entrance qualification (e.g., Abitur)","22","Female","3","1"
+"P09","2026-03-13 14:38:57","University entrance qualification (e.g., Abitur)","26","Male, Non-binary / another gender","4","3"
+"P10","2026-03-15 13:24:58","Master's degree","30","Male","4","2"
+"P11","2026-03-17 08:39:08","University entrance qualification (e.g., Abitur)","21","Male","3","3"
+"P12","2026-03-16 17:04:01","University entrance qualification (e.g., Abitur)","25","Male","4","2"
+"P14","2026-03-21 13:22:28","Bachelor's degree","21","Male","4","3"
+"P15","2026-03-21 23:21:52","University entrance qualification (e.g., Abitur)","21","Male","4","1"
+"P16","2026-03-19 13:39:28","University entrance qualification (e.g., Abitur)","21","Male","3","2"
+"P17","2026-03-16 19:32:22","University entrance qualification (e.g., Abitur)","35","Male","4","1"
+"P20","2026-03-20 11:34:40","Bachelor's degree","23","Male","4","3"
