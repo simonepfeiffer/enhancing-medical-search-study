@@ -18,6 +18,7 @@
 * **/data/demographics.csv** - Contains participant-level demographic information collected prior to the experiment, including participant ID, submission timestamp, educational level, age, gender, English proficiency, and experimental condition.
 * **/data/queries.csv** - Contains all submitted search queries, including participant ID, topic ID, condition, query text, computed helpful- and harmful-compatibility scores, and timestamp.
 * **/data/tasks.csv** - Contains aggregated task-level data for each participant, including participant ID, condition, topic ID, number of submitted queries, total task time, time to first click, submitted answer, prior familiarity, and helpful- and harmful-compatibility scores for the final query.
+* **/data/topics.csv** - Contains all search tasks used in the study, including task ID, associated topic ID, task formulation, ground-truth answer, and three curated high-performing example queries with their corresponding helpful-compatibility scores.
 * **/materials/forms/** - Full-page screenshots of the Google Form for each condition.
 * **/materials/serp/** - Full-page screenshots of the SERPs for each condition
 
