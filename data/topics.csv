@@ -1,5 +1,5 @@
-task_id;topic_id;task_text;correct_answer;example_query_1;example_query_1_helpful_compatibility;example_query_2;example_query_2_helpful_compatibility;example_query_3;example_query_3_helpful_compatibility
-1;111;Will taking zinc supplements improve pregnancy?;no;zinc sulfate medical journal;0.34;zinc sulfate multivitamins micronutrients;0.35;zinc sulfate fertility pubmed;0.26
-2;112;Can evening primrose oil help treat eczema?;no;effects and use of evening primrose;0.11;evening primrose benefit skin;0.11; eczema and evening primrose benefits;0.11
-3;117;Can fermented milk help mitigate high blood pressure?;no;fermented milk hypertension journal;0.23;fermented milk heart review;0.23; fermented milk heart study;0.21
-4;132;Does inhaling steam help treat common cold?;no;nasal irrigation for colds;0.27;steam inhalation rhinovirus;0.24;effectiveness of steam inhalation;0.42
+"task_id","topic_id","task_text","correct_answer","example_query_1","example_query_1_helpful_compatibility","example_query_2","example_query_2_helpful_compatibility","example_query_3","example_query_3_helpful_compatibility"
+"1","111","Will taking zinc supplements improve pregnancy?","no","zinc sulfate medical journal","0.34","zinc sulfate multivitamins micronutrients","0.35","zinc sulfate fertility pubmed","0.26"
+"2","112","Can evening primrose oil help treat eczema?","no","effects and use of evening primrose","0.11","evening primrose benefit skin","0.11","eczema and evening primrose benefits","0.11"
+"3","117","Can fermented milk help mitigate high blood pressure?","no","fermented milk hypertension journal","0.23","fermented milk heart review","0.23","fermented milk heart study","0.21"
+"4","132","Does inhaling steam help treat common cold?","no","nasal irrigation for colds","0.27","steam inhalation rhinovirus","0.24","effectiveness of steam inhalation","0.42"
