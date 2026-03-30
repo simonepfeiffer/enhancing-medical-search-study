@@ -22,7 +22,7 @@
 * **/materials/forms/** - Full-page screenshots of the Google Form for each condition.
 * **/materials/serp/** - Full-page screenshots of the SERPs for each condition
 
-*Note:* Links to the original Google Forms and SERPs are not included. Screenshots are provided to ensure long-term accessibility.
+*Note:* Links to the original Google Forms and SERPs are not included, as form answers contained personal identifiable information (e.g., email addresses). Screenshots are provided to ensure data privacy and long-term accessibility.
 
 ## Data Acquisition
 * **Method:** Online questionnaires (Google Forms) and condition-specific SERPs
