@@ -1,18 +1,17 @@
-# README - Enhancing Medical Web Search Through Visual Feedback and High-Performing Query Examples
+# README - Enhancing Medical Web Search Through Visual Feedback and High-Performing Query Examples: A Pilot Study
 
 ## General Information
-* **Study Title:** Enhancing Medical Web Search Through Visual Feedback and High-Performing Query Examples
+* **Study Title:** Enhancing Medical Web Search Through Visual Feedback and High-Performing Query Examples: A Pilot Study
 * **Authors:** Susen Bloos (susen.bloos@stud.uni-regensburg.de), Simone Pfeiffer (simone.pfeiffer@stud.uni-regensburg.de), Erik Reiswig (erik.reiswig@stud.uni-regensburg.de)
 * **Institution, Course:** University of Regensburg, *Informationsverhalten Verstehen*
 * **Date:** 31.03.2026
 
 ## Description
-* **Research Question:** This study investigates how visual feedback and high-performing query examples influence users' ability to retrieve helpful medical information. Specifically, it examines whether these supports improve independent search performance in a transfer setting without system assistance.
-* **Methodology:** We conducted a randomized between-subjects pilot study with three conditions (no support, visual feedback, and feedback plus query examples) across a learning phase and a test phase. Participants completed multiple medical search tasks using condition-specific SERPs, followed by a final unsupported task to assess transfer of learning. 
-* **Analysis:** Performance was assessed using helpful-compatibility@10 based on participants' final queries in the test phase, reflecting alignment with high-quality medical information, and compared across conditions. Additional variables (e.g., query behavior and demographics) were used for descriptive and exploratory analyses. No responses were excluded from the dataset.
+* **Research Question:** This study investigates how visual feedback and high-performing query examples are associated with users' ability to retrieve helpful medical information. Specifically, it examines whether patterns observed under system support persist in an unsupported transfer setting.
+* **Methodology:** We conducted a randomized between-subjects pilot study with three conditions (no support, visual feedback, and feedback plus query examples) across a learning phase and a test phase. Participants completed multiple medical search tasks using condition-specific SERPs, followed by a final unsupported task to explore potential transfer of search behavior. 
+* **Analysis:** Performance was described using helpful-compatibility@10 based on participants' final queries in the test phase. Differences between conditions were examined descriptively, focusing on patterns, effect sizes, and variability. Additional variables (e.g., query behavior and demographics) were analyzed exploratorily. The study additionally reports feasibility and instrumentation insights, including recruitment challenges, participant behavior, and limitations of the dataset and evaluation metric. All collected data are included in the dataset.
 
 ## Contents of this Repository
-
 
 * **/data/clicks.csv** - Contains all user click interactions on search results, including participant ID, topic ID, clicked URL, and timestamp.
 * **/data/demographics.csv** - Contains participant-level demographic information collected prior to the experiment, including participant ID, submission timestamp, educational level, age, gender, English proficiency, and experimental condition.
